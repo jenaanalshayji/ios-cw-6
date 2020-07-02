@@ -16,6 +16,7 @@ struct Movie{
     var actors: [String]
     var rating: Double
     var pgRating: String
+    
 }
 
 
